@@ -5,3 +5,5 @@
 ## [Tactics and Strategies](/Strategies/README.md)
 
 ## [Uniform](/Uniform/README.md)
+
+## [Gray Squadron Orientation Guide v3.0](/misc/Orientation.pdf)
