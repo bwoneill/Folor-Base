@@ -2,21 +2,21 @@
 
 ### Builds
 * Fighter with Ion Torpedo
-* Ai farming bomber
-* Bomber w/ proton bombs
-* interceptor
-* support with supply and mask/beacons
+* Flex Ai farming/cap ship bomber
+* Interceptor
+* Interceptor
+* Support with mask and beacons
 
 ### Opening: 
-* two bombers ai farm
-* fighter and scout screen against enemy
-* support masks team
+* Bomber farms AI
+* Fighter and interecptors screen against enemies
+* Support masks team and marks enemy team
 ### Defense: 
-* fighter immediately  hit corvette with an ion torp and then join interceptor for defense
-* two bombers ai farm
-* interceptor follow-up on beaconed enemies
-* one bomber and the fighter pivot between duties to hit corvette when alone, 
-* support monitors raider health and overall morale
+* Fighter immediately hits corvette with an ion torp and then join interceptors for defense
+* Bomber farms AI
+* Interceptors follow-up on beaconed enemies
+* Bomber, fighter, and interceptors pivot between duties to hit corvette when alone
+* Support monitors raider health overall morale, masks team, and marks ememy team
 ### Frigate Offense: 
 * Support follows fighter on ion torp run (preferably following the corvette) and resupplies for second run
 * Ai farmers switch to one with proton bombs and one fighter or interceptor
