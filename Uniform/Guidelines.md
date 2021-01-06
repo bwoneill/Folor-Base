@@ -30,7 +30,7 @@ Imperial Wraith pilots are expected to use __Ghastly Remnant__ paintjob, wear th
 1. Chromium-Enhanced
 
 ![Hazard Helmet](/Uniform/images/image10.png)|![Inversion Helmet](/Uniform/images/image4.png)|![Allegiance Helmet](/Uniform/images/image16.png)
-----|----|---_
+----|----|---
 ![Dark Times](/Uniform/images/image11.png)|![Skiptracer](/Uniform/images/image5.png)|![Star Stalker](/Uniform/images/image2.png)
 ![Deadeye](/Uniform/images/image7.png)|![ISB Loyalty Helm](/Uniform/images/image1.png)|![Chromium-Enhanced](/Uniform/images/image3.png)
 
