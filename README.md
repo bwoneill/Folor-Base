@@ -4,4 +4,4 @@
 
 ## [Tactics and Strategies](/Strategies/README.md)
 
-## [Uniform](/Uniform/Guidelines.md)
+## [Uniform](/Uniform/README.md)
