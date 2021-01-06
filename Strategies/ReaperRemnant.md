@@ -1,4 +1,4 @@
-# Reaper Reborn
+# Reaper Remnant
 * Frigates
    * Fighter Ion torpedos both frigates 
    * Support runs targeting beacon/resupply
