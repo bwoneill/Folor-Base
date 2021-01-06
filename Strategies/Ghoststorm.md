@@ -14,7 +14,7 @@
 ### Defense: 
 * Fighter immediately hits corvette with an ion torp and then join interceptors for defense
 * Bomber farms AI
-* Interceptors follow-up on beaconed enemies, focusing on torpedoes, bombers, and general any player assaulting the capital ships
+* Interceptors follow-up on beaconed enemies, focusing on torpedoes, bombers, and generally any player assaulting the capital ships
 * Bomber, fighter, and interceptors pivot between duties to hit corvette when alone
 * Support monitors raider health overall morale, masks team, and marks ememy team
 ### Frigate Offense: 
