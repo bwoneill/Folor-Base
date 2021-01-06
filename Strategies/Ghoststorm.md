@@ -24,7 +24,7 @@
 * Fighter makes second ion torp run on remaining shielded frigate, then runs interference
 * Interceptor and eventually the fighter run interference, pressuring first the ai farmer, then the support, and then following up on called out threats
 ### Flagship Offense:
-* Interceptors and fighter cause ruckus on one side of flagship, away from the raider or incoming bomber, attack players at will
+* Interceptors and fighter cause ruckus on one side of flagship, away from the raider or incoming bomber, attack players at will, prioritizing the ai farmer and support
 * Support follows bomber towards shield gen, masking about 1.5-2k away (or at first sign of engagement from enemy team) and marks the flagship
 * Interceptors and fighter prioritize and engage any and all assailants on the bomber
 * Bomber prioritizes next shield gen on same run, if possible
