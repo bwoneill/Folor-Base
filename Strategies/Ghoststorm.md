@@ -18,13 +18,17 @@
 * Bomber, fighter, and interceptors pivot between duties to hit corvette when alone
 * Support monitors raider health overall morale, masks team, and marks ememy team
 ### Frigate Offense: 
-* Support follows fighter on ion torp run (preferably following the corvette) and resupplies for second run
-* Ai farmers switch to one with proton bombs and one fighter or interceptor
-* Support follows proton bomber to unshielded frigate, applying beacons ahead or masking 1.5-2k away, refilling the bombers bombs after a run for immediate second attack
-* Interceptor and eventually the fighter run interference, following up on called out threats or pressuring any enemy AI farmers
+* Fighter makes first ion torp run (preferably the one targeted by the corvette/raider) and resupplies for second run
+* Flex ai farm/anti-cap bomber begins run on first unshielded frigate
+* Support follows bomber to unshielded frigate, applying beacons ahead and masking 1.5-2k away
+* Fighter makes second ion torp run on remaining shielded frigate, then runs interference
+* Interceptor and eventually the fighter run interference, pressuring first the ai farmer, then the support, and then following up on called out threats
 ### Flagship Offense:
-* Fighter will send ion torps to shields and do hit and runs if morale is high and/or corvette is healthy; stay in if about to flip. 
-* Interceptor and fighter(s) cause ruckus on one side of flagship, away from the raider or incoming bomber, attack subsystems at will
-* Support follows proton bomber towards shield gen, masking about 2-3k away and throws a supply droid on top of shield generator, then splits away
-* If shields are disabled, prioritize morale over damage. Other wise is morale is high, get shields down, and if morale is low decide whether to blitz  or escape
-* If flagship hp is ~35%, everyone focus power systems and straight hull damage
+* Interceptors and fighter cause ruckus on one side of flagship, away from the raider or incoming bomber, attack subsystems at will
+* Support follows bomber towards shield gen, masking about 1.5-2k away (or at first sign of engagement from enemy team) and marks the flagship
+* Interceptors and fighter prioritize and engage any and all assailants on the bomber
+* Bomber prioritizes next shield gen on same run, if possible
+* Fighter flexes back to anti-cap to ion torpedo the Power subsystem
+* If bomber is still alive, that pilot should immediately assist in destruction of the Power subsystem in the event that delivery of the ion torpedo fails
+* All pilots focus on weak points and hull damage
+### Flagship Defense:
