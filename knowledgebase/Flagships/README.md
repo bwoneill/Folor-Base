@@ -10,6 +10,7 @@ Subsystem|Hit points|% Damage to hull
 Targeting System|7200|5%
 Shield Generator|6000|1% each
 Power System|5200|2%
+Power System (Ion)|5200-8000|
 
 General Damage|Hit points|% Damage to hull
 ---|---|---
