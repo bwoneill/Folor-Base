@@ -1,1 +1,1 @@
-* Pika-Chua or the Blue Buckaroo
+* [Pika-Chua](knowledgebase/Builds/PikaChua.md) or the Blue Buckaroo
