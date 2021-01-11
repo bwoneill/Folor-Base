@@ -65,6 +65,10 @@ The frigate targeted by the raider is designated the primary objective.
   * When all subsystems are destroyed, the ion fighter can switch to another build
 * Bombers Priorities
   * Take out shield generators
+* Support Priorties
+  * Get the Bombers in with squadron mask
+  * Targeting Beacon Flagship
+  * Stay alive
 * Fighter/Interceptor
   * Harass AI farmer/support, stay alive
   * Protect Corvette
