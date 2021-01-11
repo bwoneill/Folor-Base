@@ -28,9 +28,9 @@ The frigate targeted by the raider is designated the primary objective.
 
 * Ion fighter has two objectives
   * Take out the frigates shields
-    1. Ion torpedo takes out the shields on the secondary objective
-    1. Peel off towards primary objective
-    1. Passive damage with ion missile and ion cannons will take out the shields on the primary objective
+    * Ion torpedo takes out the shields on the secondary objective
+    * Peel off towards primary objective
+    * Passive damage with ion missile and ion cannons will take out the shields on the primary objective
   * Harrass and disable enemy AI farming
 * Flex bomber switches to DPS
 * Support resupplies bomber after each pass
