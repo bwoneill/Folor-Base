@@ -4,3 +4,4 @@
 
 1. [Ghoststorm Strategem](/Strategies/Ghoststorm.md)
 1. [Reaper Remnant](/Strategies/ReaperRemnant.md)
+1. [Thunderstruck](/Strategies/Thunderstruck.md)
