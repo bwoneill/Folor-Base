@@ -44,8 +44,17 @@ The frigate targeted by the raider is designated the primary objective.
   * Throw ion torpedoes into shields
   * Harrass and disable enemy AI farming
   * When possible, Vander sloop to disable shield generators or other subsystems
+  * Take down shields to allow Corvette damage to come through
   * When all subsystems are destroyed, the ion fighter can switch to another build
-* Prioritize destroying weak points, not necessary to take down shields
+* Support priorities
+  * Targeting beacon the flagship
+  * Squadron Mask when available
+  * Stay Alive
+* Fighter/Interceptor Priorities
+  * Prioritize destroying weak points, call out when each of the 5 weak points are destroyed
+  * Harass enemy ai farmer, prioritize staying alive
+  * Protect Corvette
+* Damage Calculation ~45.5% (35% x 1.3) from weakpoints ~50% from passive chip damage/corvette damage 
   
 ### Empire
 
@@ -54,4 +63,11 @@ The frigate targeted by the raider is designated the primary objective.
   * Take out power systems
   * Harrass and disable enemy AI farming
   * When all subsystems are destroyed, the ion fighter can switch to another build
-* Bombers take out shields
+* Bombers Priorities
+  * Take out shield generators
+* Fighter/Interceptor
+  * Harass AI farmer/support, stay alive
+  * Protect Corvette
+* Damage Calculation 2% from shield gens 2% Power System ~96% from Corvette + Chip damage
+
+
