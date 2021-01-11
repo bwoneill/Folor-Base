@@ -1,4 +1,4 @@
-# The Strat
+# The strat currently known as The Strat
 
 ## Builds
 
