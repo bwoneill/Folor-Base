@@ -1,4 +1,4 @@
-# The strat currently known as The Strat
+# Thunderstruck
 
 ## Builds
 
