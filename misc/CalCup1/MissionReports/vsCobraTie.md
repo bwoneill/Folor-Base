@@ -42,9 +42,9 @@ Cobra Tie wins the kickoff in about 50 seconds with AI farming and 1 PK (Xaython
 
 ### First Defense: T-30:00 to T-27:15
 
-Losses: All shields and 20% hull on Alpha, All shields and 60% hull on Bravo.
+Losses: All shields and 20% hull on Alpha; all shields and 60% hull on Bravo; Chua twice; Ranger and Wolfen once each.
 
-Kills: 
+Gains: Destroyed raider (90 s) and one kill each on Chukomojo, Sitka, and Drake.
 
 T-29:35 - Bwoneill (ion fighter) drops the shields on the Raider and evades Von Karajan (bomber) until T-29:00.
 
@@ -59,3 +59,24 @@ T-28:33 - Bwoneill switches target to Chukumojo (support). Target ionized and ki
 T-28:29 - Drake kills Wolfen (support).
 
 T-28:20 - Bwoneill begins to patrol around Bravo.
+
+T-28:08 - Raider destroyed.
+
+T-27:33 - Torpedo run on Bravo successfully neutralized.
+
+### First Offense: T-27:15 to T-25:01
+
+Losses: Corvette destroyed (1:10, after 25 seconds of heavy fire); bwoneill twice, Chua and Wolfen once each.
+
+Gains: All shields on Charlie, minimal hull damage; all shields on Delta, 40% hull damage; one kill on Sitka.
+
+T-27:10 - Bwoneill starts torpedo run on Delta, unsuccessful due to lack of torpedo but got a missile off, killed by Sitka.
+
+T-26:24 - Ranger kills Sitka.
+
+T-26:05 - Bwoneill takes down the shields on Delta, Chukumojo destroys corvette and bwoneill.
+
+T-25:42 - Drake kills Wolfen.
+
+T-25:30 - Sitka kills Chua.
+
