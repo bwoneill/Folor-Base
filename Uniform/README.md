@@ -20,7 +20,7 @@ New Republic Wraiths are expected to use the __Cavern Angels__ paintjob, wear th
 Imperial Wraith pilots are expected to use __Dragonsnake__ paintjob, wear the __Inversion Flight Suit__, the __Inversion gloves, Navigator Gloves, OR Chromium-Enhanced Vambraces__, and adopt the __“Formal Rest”__ pose. You may wear any helmet but __Malignance__ is preferred and the following are strongly __*ENCOURAGED*__:
 
 ### Malignance
-<img src="https://raw.githubusercontent.com/bwoneill/Folor-Base/main/Uniform/images/Malignance.png" width="300"/>
+<img src="/Uniform/images/Malignance.png" width="300"/>
 
 1. Hazard Helmet
 1. Inversion Helmet
