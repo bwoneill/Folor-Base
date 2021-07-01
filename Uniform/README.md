@@ -17,7 +17,7 @@ New Republic Wraiths are expected to use the __Cavern Angels__ paintjob, wear th
 
 ## Imperial Remnant
 
-Imperial Wraith pilots are expected to use __Ghastly Remnant__ paintjob, wear the __Inversion Flight Suit__, the __Inversion gloves, Navigator Gloves, OR Chromium-Enhanced Vambraces__, and adopt the __“Formal Rest”__ pose. You may wear any helmet but are strongly __*ENCOURAGED*__ to wear one of the following:
+Imperial Wraith pilots are expected to use __Dragonsnake__ paintjob, wear the __Inversion Flight Suit__, the __Inversion gloves, Navigator Gloves, OR Chromium-Enhanced Vambraces__, and adopt the __“Formal Rest”__ pose. You may wear any helmet but are strongly __*ENCOURAGED*__ to wear one of the following:
 
 1. Hazard Helmet
 1. Inversion Helmet
